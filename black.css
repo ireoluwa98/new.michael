@@ -1,0 +1,42 @@
+ 
+
+ body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    margin-left:40%;
+    font-size: xx-large;
+    color: white;
+ }
+ #massage-el {
+    color: white;
+    font-style: italic;
+    /* transition: 2s; */
+    /* color: blue; */
+    /* background-color: brown; */
+ }
+ .black {
+    /* color:rgba(197, 221, 17, 0.892); */
+    color: goldenrod;
+ }
+ #start{
+    background-color: green;
+    /* margin-left:40%; */
+    font-size: xx-large;
+    border: 2mm solid goldenrod;
+    background-color: goldenrod;
+    color: green;
+    padding: 15px;
+    border-radius: 4mm;
+
+ }
+ #new{
+    background-color: green;
+    /* margin-left:40%; */
+    font-size: xx-large;
+    border: 2mm solid goldenrod;
+    background-color: goldenrod;
+    color: green;
+    padding: 20px;
+    border-radius: 4mm;
+    margin-top: 20px;
+ }
